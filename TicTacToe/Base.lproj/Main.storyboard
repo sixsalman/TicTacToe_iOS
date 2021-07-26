@@ -50,7 +50,7 @@
                                 <color key="textColor" systemColor="systemOrangeColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SH3-JR-pCp" userLabel="Btn 0">
+                            <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SH3-JR-pCp" userLabel="Btn 0">
                                 <rect key="frame" x="0.0" y="93" width="124.66666666666667" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -61,7 +61,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fsN-A7-CFP"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="1" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MwU-QI-YG3" userLabel="Btn 1">
+                            <button opaque="NO" tag="1" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MwU-QI-YG3" userLabel="Btn 1">
                                 <rect key="frame" x="132.66666666666666" y="93" width="124.66666666666666" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -72,7 +72,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="XOQ-1d-pqX"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="2" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kKc-i5-IS1" userLabel="Btn 2">
+                            <button opaque="NO" tag="2" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="kKc-i5-IS1" userLabel="Btn 2">
                                 <rect key="frame" x="265.33333333333331" y="93" width="124.66666666666669" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -83,7 +83,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mcu-I9-MfK"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="3" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gGU-EF-f2S" userLabel="Btn 3">
+                            <button opaque="NO" tag="3" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gGU-EF-f2S" userLabel="Btn 3">
                                 <rect key="frame" x="0.0" y="332" width="124.66666666666667" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -94,7 +94,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="cfP-99-WiE"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="4" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DKN-1V-82j" userLabel="Btn 4">
+                            <button opaque="NO" tag="4" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DKN-1V-82j" userLabel="Btn 4">
                                 <rect key="frame" x="132.66666666666666" y="332" width="124.66666666666666" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -105,7 +105,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fJF-n7-8oa"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="5" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iCw-iX-RA1" userLabel="Btn 5">
+                            <button opaque="NO" tag="5" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iCw-iX-RA1" userLabel="Btn 5">
                                 <rect key="frame" x="265.33333333333331" y="332" width="124.66666666666669" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -116,7 +116,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mpc-vE-lkS"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="6" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YMi-fa-fgJ" userLabel="Btn 6">
+                            <button opaque="NO" tag="6" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YMi-fa-fgJ" userLabel="Btn 6">
                                 <rect key="frame" x="0.0" y="571" width="124.66666666666667" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -127,7 +127,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Y7p-7G-gUP"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="7" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5vV-jv-f5x" userLabel="Btn 7">
+                            <button opaque="NO" tag="7" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5vV-jv-f5x" userLabel="Btn 7">
                                 <rect key="frame" x="132.66666666666666" y="571" width="124.66666666666666" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
@@ -138,7 +138,7 @@
                                     <action selector="playBtnTouch:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5ff-Vj-d9V"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" tag="8" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1i1-Hl-Wog" userLabel="Btn 8">
+                            <button opaque="NO" tag="8" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1i1-Hl-Wog" userLabel="Btn 8">
                                 <rect key="frame" x="265.33333333333331" y="571" width="124.66666666666669" height="231"/>
                                 <color key="backgroundColor" systemColor="systemOrangeColor"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="150"/>
