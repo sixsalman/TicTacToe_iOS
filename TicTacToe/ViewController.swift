@@ -29,6 +29,8 @@ class ViewController: UIViewController {
         botSign = "X"
         
         startCommon()
+        
+        botTurn()
     }
     
     func startCommon() {
@@ -60,6 +62,12 @@ class ViewController: UIViewController {
                 return
             }
             
+            if(empSpots.count == 0) {
+                resultLabel.text = "IT'S A DRAW"
+                gameEnded = true
+                return
+            }
+            
             botTurn()
             
             if (checkWin(botSign!)) {
@@ -68,7 +76,7 @@ class ViewController: UIViewController {
                 return
             }
             
-            if(empSpots.count == 1) {
+            if(empSpots.count == 0) {
                 resultLabel.text = "IT'S A DRAW"
                 gameEnded = true
             }
